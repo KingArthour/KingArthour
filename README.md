@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm King</h1>
+<h1 align="center">Hello, I'm King</h1>
 <h3 align="center">Computer Engineering Student at King Mongkut’s Institute of Technology Ladkrabang</h3>
 
 
@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanawat sawangwong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanawat sawangwong" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanawat-sawangwong-777b3b32a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanawat sawangwong" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
