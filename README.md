@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm King</h1>
 <h3 align="center">Computer Engineering Student at King Mongkut’s Institute of Technology Ladkrabang</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingarthour&label=Profile%20views&color=0e75b6&style=flat" alt="kingarthour" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingarthour" alt="kingarthour" /></a> </p>
 
 - 🌱 I’m currently learning **LLM,Docker,Airflow,other field relate Data engineer**
 
